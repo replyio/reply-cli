@@ -25,6 +25,22 @@
         "url": "https://github.com/replyio/reply-cli/issues"
     },
     "homepage": "https://github.com/replyio/reply-cli#readme",
+    "keywords": [
+        "reply",
+        "reply-io",
+        "replyio",
+        "cli",
+        "sales-engagement",
+        "outreach",
+        "email-automation",
+        "sequences",
+        "campaigns",
+        "contacts",
+        "cold-email",
+        "sales-automation",
+        "email-outreach",
+        "crm"
+    ],
     "engines": {
         "node": ">=20.0.0"
     },
