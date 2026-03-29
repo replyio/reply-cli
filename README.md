@@ -432,7 +432,7 @@ You may need the owner/master API key for this operation.
 - [Reply.io](https://reply.io)
 - [Reply.io API Documentation](https://apidocs.reply.io)
 - [API Key Settings](https://run.reply.io/Dashboard/Material#/settings/api)
-- [Report an Issue](https://github.com/olegvc2/reply-cli/issues)
+- [Report an Issue](https://github.com/replyio/reply-cli/issues)
 
 ---
 

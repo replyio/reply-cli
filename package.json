@@ -17,6 +17,14 @@
     },
     "author": "Reply.io",
     "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/replyio/reply-cli.git"
+    },
+    "bugs": {
+        "url": "https://github.com/replyio/reply-cli/issues"
+    },
+    "homepage": "https://github.com/replyio/reply-cli#readme",
     "engines": {
         "node": ">=20.0.0"
     },
