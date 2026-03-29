@@ -1,6 +1,6 @@
 {
     "name": "reply-cli",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Command-line interface for Reply.io. Manage sequences, contacts, email accounts, and schedules from your terminal.",
     "main": "dist/index.js",
     "bin": {
